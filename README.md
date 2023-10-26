@@ -1,2 +1,2 @@
 # delta-first
-this is first git project
+This is first git project.
